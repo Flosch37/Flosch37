@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Flosch37
 
-<!--
-**Flosch37/Flosch37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Je suis actuellement en formation de concepteur développeur d'application.
 
-Here are some ideas to get you started:
+## Compétences
+- Langages de programmation : Python, JavaScript, PHP, HTML, CSS
+- Technologies : React, Node.js, Docker
+- Bases de données : MySQL, MongoDB
+- Outils : Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistiques GitHub
+![Les statistiques GitHub de Flosch37](https://github-readme-stats.vercel.app/api?username=Flosch37&show_icons=true&theme=radical)
+
+## Langues les plus utilisées
+![Les langues les plus utilisées par Flosch37](https://github-readme-stats.vercel.app/api/top-langs/?username=Flosch37&layout=compact&theme=radical)
+
+## Comment me contacter
+- Email : [florianschnabel18@gmail.com](mailto:florianschnabel18@gmail.com)
+- LinkedIn : [Florian Schnabel](https://www.linkedin.com/in/florian-schnabel-aaa700263/)
+- Twitter : [Flosch18](https://x.com/Flosch18)

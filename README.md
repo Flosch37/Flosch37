@@ -18,4 +18,3 @@ Je suis actuellement en formation de concepteur développeur d'application.
 ## Comment me contacter
 - Email : [florianschnabel18@gmail.com](mailto:florianschnabel18@gmail.com)
 - LinkedIn : [Florian Schnabel](https://www.linkedin.com/in/florian-schnabel-aaa700263/)
-- Twitter : [Flosch18](https://x.com/Flosch18)

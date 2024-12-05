@@ -5,7 +5,7 @@ Je suis actuellement en formation de concepteur développeur d'application.
 
 ## Compétences
 - Langages de programmation : Python, JavaScript, PHP, HTML, CSS
-- Technologies : React, Node.js, Docker
+- Technologies : React, Node.js, Docker, Laravel
 - Bases de données : MySQL, MongoDB
 - Outils : Git, GitHub, VS Code
 

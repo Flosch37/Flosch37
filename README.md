@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Florian
 
 ## À propos de moi
-Je suis actuellement en formation de concepteur développeur d'application.
+Je suis actuellement en formation de Concepteur Développeur d'Application.
 
 ## Compétences
 - Langages de programmation : Python, JavaScript, PHP, HTML, CSS
